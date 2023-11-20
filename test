@@ -1,1 +1,1 @@
-echo 123 >> /root/123.txt
+touch 1234
